@@ -1,4 +1,4 @@
-local api = "localhost/api/getWeather.php"
+local api = "localhost/weatherapi/getWeather.php"
 local data
 local ws
 local wd
