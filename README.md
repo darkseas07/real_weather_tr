@@ -3,7 +3,7 @@
 <b>[TR]</b> <br/>
 - Kendim PHP ile MGM' den çekmiş olduğum verilerle il/ilçe nin hava durumuna göre oyunun hava durumunu ayarlayan script.
 - Weatherapi dosyanın içindeki wamp veya xampp içine atmanız yeterlidir.
-- Script hala geliştirilmektedir.(Hava durumlarında birkaç hava durumu eksik onun dışında çalışmaktadır).
+- Script hala geliştirilmektedir. (Hava durumlarında birkaç hava durumu eksik onun dışında çalışmaktadır).
 
 <b>Bug ve görüşleriniz için yazabilirsiniz.</b>
 
